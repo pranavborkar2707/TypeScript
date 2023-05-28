@@ -13,4 +13,21 @@ const fun1 =()=> {
     console.log(c+d);
 }
 
-fun1();
+// fun1();
+// const fun2=()=>{
+// let FName : string='pranav';
+// const age : number=24;
+// const add :string=FName + age;
+// console.log('FullName =',add);
+// }
+
+// fun2();
+
+// Addition 
+
+const fun3=(M:number,N:number)=>M+N;
+const addition = fun3(4000,10).toString;
+console.log(addition.length);
+
+
+

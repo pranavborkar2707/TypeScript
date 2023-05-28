@@ -10,4 +10,15 @@ var fun1 = function () {
     var d = 30;
     console.log(c + d);
 };
-fun1();
+// fun1();
+// const fun2=()=>{
+// let FName : string='pranav';
+// const age : number=24;
+// const add :string=FName + age;
+// console.log('FullName =',add);
+// }
+// fun2();
+// Addition 
+var fun3 = function (M, N) { return M + N; };
+var addition = fun3(4000, 10).toString;
+console.log(addition.length);
